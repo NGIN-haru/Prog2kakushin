@@ -1,4 +1,4 @@
-![17_002](https://github.com/NGIN-haru/Prog2kakushin/assets/153525007/8603f305-b901-409d-869c-e584c81d2dbd)# Prog2kakushin
+# Prog2kakushin
 
 # プログラム１について
 
