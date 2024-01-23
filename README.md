@@ -59,7 +59,7 @@
 
 　周囲のピクセルの情報を均等に重みづけするため、ノイズを抑える効果がありますが、画像のエッジ情報も同様にぼかしてしまう特徴があります。
 
-https://www.frontier.maxell.co.jp/blog/images/14/14_002.png
+![14_002](https://github.com/NGIN-haru/Prog2kakushin/assets/153525007/84bf3ef8-806e-4e86-b552-ea818f9fb08e)
 
 ### ガウシアンフィルター
 
